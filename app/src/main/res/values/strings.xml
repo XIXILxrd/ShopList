@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ShopList</string>
+    <string name="add_item_to_shop_list">Add item to shop list</string>
 </resources>
